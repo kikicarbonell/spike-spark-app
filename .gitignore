@@ -1,0 +1,5 @@
+# Standard sbt ignores
+target/
+src_managed/
+.idea/
+
